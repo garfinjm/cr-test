@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: minimal
 title: Training & Event Calendar
+full-width: true
 #subtitle: The AMD Central Region Support Team
 ---
 
