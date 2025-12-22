@@ -21,10 +21,9 @@ author: Central Region AMD Leads
 
 <!-- TODO: Update these links, and build the pages themselves. -->
 navbar-links:
-  About Us: "aboutus"
+  About/Contact: "aboutus"
   Event Calendar: "calendar"
-  Resources: "https://LinkToResources.com"
-  Contact: "contactus"
+  Resources: "resources"
 
 ################
 # --- Logo --- #
