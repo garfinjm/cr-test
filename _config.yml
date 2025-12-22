@@ -21,7 +21,7 @@ author: Central Region AMD Leads
 
 <!-- TODO: Update these links, and build the pages themselves. -->
 navbar-links:
-  About/Contact: "aboutus"
+  Contact Us: "aboutus"
   Event Calendar: "calendar"
   Resources: "resources"
 
