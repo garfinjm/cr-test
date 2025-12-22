@@ -23,7 +23,7 @@ author: Central Region AMD Leads
 navbar-links:
   About Us: "aboutus"
   Contact Us: "contactus"
-  Event Calendar: "https://LinkToEventCalendar.com"
+  Event Calendar: "calendar"
   Resources: "https://LinkToResources.com"
 
 ################
