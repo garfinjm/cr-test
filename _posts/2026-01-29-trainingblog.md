@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
+title: Training Opportunities and Links
 subtitle: There's lots to learn!
 tags: [training,forms]
 author: Jessica Jencks
 ---
-
-# Training Opportunities and Links
 
 1. Pathogen Genomics for Public Health (Foundations I & II)
 
