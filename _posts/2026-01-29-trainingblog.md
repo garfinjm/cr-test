@@ -14,4 +14,4 @@ Join a community of learners building the skills to turn pathogen genomic insigh
 Start with Foundations I: Conceptual Foundations of Pathogen Genomics, an introduction for anyone in public health, or with a general interest in understanding pathogen genomics. In this course, you will discover what pathogen genomics is and why it is becoming an essential tool for tracking infectious diseases and responding to outbreaks. 
 Continue with Foundations II: Technical Introduction to Pathogen Genomic Epidemiology: Mutations, Transmission, and Phylogenetics for a deeper understanding of key molecular biology principles that underpin genomic epidemiology. You will explore how sequencing pathogen genomes can reveal insights into pathogen transmission-laying the groundwork for more advanced topics.
 
-[Register Now! ](https://learn.hms.harvard.edu/pathogen-genomics-public-health)
+[Register Now!](https://learn.hms.harvard.edu/pathogen-genomics-public-health)
