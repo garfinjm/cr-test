@@ -34,4 +34,4 @@ The training will consist of breakout “tracks” (methods-focused trainings fo
 
 •Epidemiology track: principles of genomic epidemiology; genomic data analysis, visualization, and interpretation; and incorporating sequencing data into surveillance and outbreak response.
 
-_Questions?_ [**Contact us**](jessica.jencks@state.mn.us) for more information!
+_Questions?_ [**Contact us**](mailto:jessica.jencks@state.mn.us) for more information!
