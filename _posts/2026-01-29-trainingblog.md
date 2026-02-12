@@ -30,7 +30,7 @@ The training will consist of breakout “tracks” (methods-focused trainings fo
 
 •Laboratory track: methods for sequencing microbial pathogens; managing raw genomic data; and laboratory information management systems (LIMS) for sequencing.
 
-•Bioinformatics track: sequencing data and result management; strategies automating workflows; selecting appropriate bioinformatics methods; AMD Platform Discussion (if available.
+•Bioinformatics track: sequencing data and result management; strategies automating workflows; selecting appropriate bioinformatics methods; AMD Platform Discussion (if available).
 
 •Epidemiology track: principles of genomic epidemiology; genomic data analysis, visualization, and interpretation; and incorporating sequencing data into surveillance and outbreak response.
 
