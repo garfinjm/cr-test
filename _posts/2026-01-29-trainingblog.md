@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Training Opportunities and Links
-subtitle: There's lots to learn!
+subtitle: Check back to see what's new!
 tags: [training opportunities,]
 author: Jessica Jencks
 ---
